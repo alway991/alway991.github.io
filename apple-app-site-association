@@ -3,16 +3,12 @@
         "apps": [],
         "details": [
             {
-                "appID": "G56NU654TV.io.dcloud.HBuilder",
+                "appID": "F8TLQ33G3W.com.zjw.demo.mPaas.ExtensionTest",
                 "paths": ["/ulink/*", "/qq_conn/1104455702/*"]
-            },
-            {
-                "appID": "G56NU654TV.io.dcloud.T",
-                "paths": ["/ulinktest/*"]
             }
         ]
     },
     "appclips": {
-        "apps": ["P2874C6B5Z.com.ksh.app.test.Test.Clip"]
+        "apps": ["F8TLQ33G3W.com.zjw.demo.mPaas.ExtensionTest"]
     }
 }
