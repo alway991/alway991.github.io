@@ -5,6 +5,10 @@
             {
                 "appID": "F8TLQ33G3W.com.zjw.demo.mPaas.ExtensionTest",
                 "paths": ["/ulink/*", "/qq_conn/1104455702/*"]
+            },
+            {
+                "appID":"ZW2ZD58MMK.com.kuke.teacher",		
+		"paths":["*","/line-auth/*","/qq_conn/101971197/*"]
             }
         ]
     },
